@@ -1,0 +1,9 @@
+border around minimap
+controller support
+ui better
+fix menu camera bug
+make it so you can change color of car
+better placement of pads, make them smaller
+add sound when car hits a wall, send them back a little
+effects on congratulations screen
+automatically send player back when missed checkpoint

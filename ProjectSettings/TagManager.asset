@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - moosic
+  - camcam
+  - finish
+  - checkpoint
+  - speedboost
+  - car
+  - slowpad
+  - funobject
+  - shell
+  - die
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Car
+  - Controller
+  - CarCollide
+  - P1
+  - P2
+  - P3
+  - P4
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - UNCOLLIDEABLE
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
