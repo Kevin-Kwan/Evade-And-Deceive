@@ -2,8 +2,6 @@
 
 A racing game like Mario Kart that has online multiplayer functionality made in GSMST Game Design. Utilizes Photon Unity Networking 2 (PUN 2). In-game music is licensed from Monstercat.
 
-[![Alt text](https://img.youtube.com/vi/GMFBLXw-_bw/0.jpg)](https://www.youtube.com/watch?v=GMFBLXw-_bw)
-
 Poster:
 ![Poster](posterfinalactual.png)
 
